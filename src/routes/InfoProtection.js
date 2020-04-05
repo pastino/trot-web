@@ -32,7 +32,7 @@ const InfoProtection = () => (
         display: "flex",
         alignItems: "center",
         justifyContent: "center",
-        fontSize: 30,
+        fontSize: 20,
         backgroundColor: "black",
         color: "white",
         height: 70,
