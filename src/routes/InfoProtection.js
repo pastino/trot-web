@@ -38,7 +38,7 @@ const InfoProtection = () => (
         height: 70,
       }}
     >
-      홍익인간
+      쉐어플랜
     </div>
     <Wrapper>
       <DivideLineLine>
@@ -72,7 +72,7 @@ const InfoProtection = () => (
         수 있습니다.
       </div>
       <div>
-        홍익인간은 회원님의 개인정보를 보호하기 위해 최선을 다하고 있습니다.
+        쉐어플랜은 회원님의 개인정보를 보호하기 위해 최선을 다하고 있습니다.
         이를 위해서 회사는 개인정보의 보호와 관련하여 ‘정보통신망 이용촉진 및
         정보보호 등에 관한 법률’, ‘개인정보 보호법’ 등 개인정보와 관련된 법령을
         준수하고 있습니다. 귀하는 본 서비스를 사용함으로서 정보의 수집, 전송,
@@ -88,7 +88,7 @@ const InfoProtection = () => (
         가. 수집하는 개인정보의 항목
       </div>
       <div style={{ marginTop: 20, fontSize: 12 }}>
-        홍익인간에서는 원활한 서비스 제공과 더 나은 서비스를 만들기 위해 다음과
+        쉐어플랜에서는 원활한 서비스 제공과 더 나은 서비스를 만들기 위해 다음과
         같은 정보를 수집하고 있습니다.
       </div>
       <div style={{ marginTop: 20, fontSize: 12 }}>
@@ -455,7 +455,7 @@ const InfoProtection = () => (
               fontSize: 10,
             }}
           >
-            - 소속 : 홍익인간
+            - 소속 : 쉐어플랜
           </div>
           <div
             style={{
@@ -477,7 +477,7 @@ const InfoProtection = () => (
       </div>
       <div style={{ marginLeft: 10, marginRight: 10 }}>
         <div style={{ marginTop: 7, fontSize: 10 }}>
-          - 시행일: 2020년 04월 01일
+          - 시행일: 2020년 07월 03일
         </div>
       </div>
     </div>
